@@ -120,13 +120,13 @@ export const workData = [
         bgImage: '/work-4.png',
     },
     {
-        title: 'Nike landing page',
+        title: 'BgRemover',
         livelink: 'https://bgremoverpro.vercel.app/',
         githublink: 'https://github.com/Abdullah-webd/bgremoverpro',
         bgImage: '/work-5.png',
     },
     {
-        title: 'BgRemover',
+        title: 'Nike landing page',
         livelink: 'https://nike-official.vercel.app/',
         githublink: 'https://github.com/Abdullah-webd/Nike-official',
         bgImage: '/work-6.png',
